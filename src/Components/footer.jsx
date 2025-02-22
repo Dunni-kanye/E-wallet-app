@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // "use client"
 
 // import { Home, PieChart, Wallet, User } from "lucide-react";
@@ -38,6 +39,10 @@
 
 "use client";
 
+=======
+"use client";
+
+>>>>>>> 168b440 (created a scanner page)
 import { Home, PieChart, User, ScanLine, BarChart, CreditCard } from "lucide-react";
 import { Link } from "react-router-dom";
 import { useState } from "react";
